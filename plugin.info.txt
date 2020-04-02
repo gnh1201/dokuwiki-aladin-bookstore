@@ -1,0 +1,7 @@
+base    aladin
+author  Go Namhyeon
+email   gnh1201@gmail.com
+date    2020-03-20
+name    Aladin Bookstore
+desc    Korean Online Bookstore (aladin.co.kr) Search Plugin
+url     https://catswords.info
