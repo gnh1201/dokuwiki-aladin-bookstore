@@ -6,4 +6,4 @@ Korean Online Bookstore (aladin.co.kr) Search Plugin for Dokuwiki
 {{aladin>소설}}
 ```
 ## Contact me
-gnh1201@gmail.com
+  * gnh1201@gmail.com
